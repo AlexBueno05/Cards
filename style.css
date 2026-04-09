@@ -9,7 +9,7 @@
 }
 
 body {
-    color: black;
+    color: #161111;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
@@ -41,7 +41,7 @@ header .logo img {
 }
 
 main {
-    background-color: #000000;
+    background-color: #161111;
     height: 100px;
     flex: 1;
     background-image: url(assets/fundo_hades.png);
@@ -111,7 +111,7 @@ main .cards-container {
 }
 
 footer {
-    background-color: #0D0D0D;
+    background-color: #161111;
     padding: 5px 10%;
     display: flex;
     justify-content: center;
